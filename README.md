@@ -3,7 +3,7 @@
  ### 📨Gmail: huunien734@gmail.com
 ## About me:
 >- 👨‍🎓 Phenikaa Student.
->- 🐵 Learning : Kotlin, Java, Dart (Flutter),C#, C++.
+>- 🐵 Learning : Kotlin, Java, Dart (Flutter),C#.
 >- 👨‍💻 Game Maker : Make games with Unity - 12 Month.
 >- 👨‍💻 Mobile Dev :  
     - Make Mobile apps with Android Studio (Java, Kotlin) basic and Flutter.  
